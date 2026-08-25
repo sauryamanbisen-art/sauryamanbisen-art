@@ -17,7 +17,7 @@
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com">
+  <a href="https://x.com/SauryamanBisen">
     <img src="https://img.shields.io/badge/-TWITTER-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <br>
@@ -29,7 +29,7 @@
   </a>
 </div>
 
-<div align="center">
+<div align="center">  
   <br>
   <i>Languages and Tools I use:</i>
   <br><br>
