@@ -24,7 +24,7 @@
   <a href="https://telegram.org">
     <img src="https://img.shields.io/badge/-TELEGRAM-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="https://proton.me">
+  <a href="mailto:Sauryaman_B@protonmail.com">
     <img src="https://img.shields.io/badge/-PROTONMAIL-000000?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
   </a>
 </div>
