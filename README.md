@@ -13,7 +13,7 @@
 <div align="center">
   <br>
   <i>You can find me or contact me through these networks:</i>
-  <br>
+  <br><br>
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -32,7 +32,7 @@
 <div align="center">
   <br>
   <i>Languages and Tools I use:</i>
-  <br>
+  <br><br>
   <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
