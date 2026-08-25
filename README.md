@@ -4,6 +4,8 @@
 
 <h3 align="center">Hi, Human 🖖</h3>
 
+---
+
 <div align="center">
   <b>I'm Sauryaman, a developer passionate about this amazing world of technology.</b>
   <br><br>
