@@ -33,14 +33,12 @@
 <br>
 
 <div align="center">
-  <i>You can also support me financially via:</i>
+  <i>Languages and Tools I use:</i>
   <br><br>
-  <a href="https://paypal.com">
-    <img src="https://img.shields.io/badge/-PAYPAL-000000?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal" />
-  </a>
-  <a href="https://pix.bcb.gov.br">
-    <img src="https://img.shields.io/badge/-PIX-000000?style=for-the-badge&logo=pix&logoColor=white" alt="Pix" />
-  </a>
+  <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/-Git-000000?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <br><br>
 </div>
 
