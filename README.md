@@ -8,7 +8,7 @@
 
 <div align="center">
   <b>I'm Sauryaman, a developer passionate about this amazing world of technology.</b>
-  <br>
+  <br><br>
   Welcome to my GitHub, here you will find my projects and my collaborations..
 </div>
 

@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" width="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 30 1520 440" width="100%">
   <!-- The main angled background shape (GitHub Dark Mode matched) -->
-  <polygon points="0,40 750,90 1500,40 1500,460 750,410 0,460" fill="#0D1117" />
+  <polygon points="0,40 750,90 1500,40 1500,460 750,410 0,460" fill="#0D1117" stroke="#0D1117" stroke-width="20" stroke-linejoin="round" />
   
   <!-- Scattered Floating Geometric Squares -->
   <rect x="250" y="150" width="60" height="60" fill="none" stroke="#1F6FEB" stroke-width="3" transform="rotate(15 280 180)" />
