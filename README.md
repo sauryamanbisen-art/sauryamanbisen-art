@@ -8,15 +8,14 @@
 
 <div align="center">
   <b>I'm Sauryaman, a developer passionate about this amazing world of technology.</b>
-  <br><br>
+  <br>
   Welcome to my GitHub, here you will find my projects and my collaborations..
 </div>
 
-<br>
-
 <div align="center">
+  <br>
   <i>You can find me or contact me through these networks:</i>
-  <br><br>
+  <br>
   <a href="https://linkedin.com">
     <img src="https://img.shields.io/badge/-LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -32,11 +31,10 @@
   </a>
 </div>
 
-<br>
-
 <div align="center">
+  <br>
   <i>Languages and Tools I use:</i>
-  <br><br>
+  <br>
   <img src="https://img.shields.io/badge/-Python-000000?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
   <img src="https://img.shields.io/badge/-React-000000?style=for-the-badge&logo=react&logoColor=white" alt="React" />
