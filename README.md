@@ -4,8 +4,6 @@
 
 <h2 align="center">Hi, Human 🖖</h2>
 
-<img src="line.svg" alt="line" width="100%">
-
 <div align="center">
   <b>I'm Sauryaman, a developer passionate about this amazing world of technology.</b>
   <br><br>
