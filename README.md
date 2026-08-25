@@ -2,14 +2,14 @@
   <img src="banner-svg.svg" alt="Banner" width="100%">
 </div>
 
-<h3 align="center">Hi, Human 🖖</h3>
+<h2 align="center">Hi, Human 🖖</h2>
 
----
+<img src="line.svg" alt="line" width="100%">
 
 <div align="center">
   <b>I'm Sauryaman, a developer passionate about this amazing world of technology.</b>
   <br><br>
-  Welcome to my GitHub, here you will find my projects and my collaborations..
+  Welcome to my GitHub! Here you'll find my projects, open-source contributions, and things I'm currently learning and building...
 </div>
 
 <div align="center">
@@ -47,16 +47,15 @@
 <details>
   <summary>More about me</summary>
   <br>
-  I'm a self-taught student, introverted and very observant.<br>
-  I'm currently contributing to the open source world to put into practice the knowledge acquired in my studies. I also help the guys who are starting programming in the communities.
+  I'm a first-year B.Tech CSE student, passionate about technology and web development. I enjoy learning by building projects, contributing to open source, and continuously improving my skills.
   <br><br>
   <ul>
-    <li>🎓 Technician in System Development by ETEC</li>
-    <li>🎯 Contribute and create open source projects</li>
-    <li>📚 I'm studying Python | Algorithms | Dev Web | English</li>
-    <li>💬 You can ask me questions, I like to help!</li>
-    <li>🌑 Observing space</li>
-    <li>🎮 Find me in the gaming world: <b>TheuzzLivee</b></li>
+    <li>🎓 B.Tech Computer Science Engineering Student</li>
+    <li>🎯 Building projects and contributing to open source</li>
+    <li>📚 Currently learning Java | Python | DSA | Web Development</li>
+    <li>💬 Always open to learning, sharing, and helping others</li>
+    <li>🚀 Exploring new technologies and building ideas</li>
+    <li>💻 Interested in Full-Stack & DevOps</li>
   </ul>
 </details>
 
