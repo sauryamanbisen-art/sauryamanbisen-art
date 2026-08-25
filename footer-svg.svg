@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 250" width="100%">
+  <!-- The bottom angled footer shape (flat bottom, dipped top) -->
+  <polygon points="0,0 750,50 1500,0 1500,250 0,250" fill="#0D1117" />
+  
+  <!-- Scattered Floating Geometric Squares -->
+  <rect x="300" y="100" width="50" height="50" fill="none" stroke="#21262D" stroke-width="3" transform="rotate(25 325 125)" />
+  <rect x="1150" y="80" width="70" height="70" fill="none" stroke="#1F6FEB" stroke-width="2" transform="rotate(-15 1185 115)" />
+  <rect x="700" y="150" width="40" height="40" fill="none" stroke="#21262D" stroke-width="2" transform="rotate(40 720 170)" />
+  <rect x="150" y="180" width="60" height="60" fill="none" stroke="#21262D" stroke-width="4" transform="rotate(-10 180 210)" />
+</svg>

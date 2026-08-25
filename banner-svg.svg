@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1500 500" width="100%">
+  <!-- The main angled background shape (GitHub Dark Mode matched) -->
+  <polygon points="0,40 750,90 1500,40 1500,460 750,410 0,460" fill="#0D1117" />
+  
+  <!-- Scattered Floating Geometric Squares -->
+  <rect x="250" y="150" width="60" height="60" fill="none" stroke="#1F6FEB" stroke-width="3" transform="rotate(15 280 180)" />
+  <rect x="400" y="320" width="90" height="90" fill="none" stroke="#21262D" stroke-width="4" transform="rotate(-25 445 365)" />
+  <rect x="1100" y="120" width="50" height="50" fill="none" stroke="#21262D" stroke-width="3" transform="rotate(45 1125 145)" />
+  <rect x="1250" y="300" width="80" height="80" fill="none" stroke="#1F6FEB" stroke-width="2" transform="rotate(-15 1290 340)" />
+  <rect x="650" y="350" width="40" height="40" fill="none" stroke="#21262D" stroke-width="2" transform="rotate(10 670 370)" />
+  
+  <!-- Main Glowing Initials -->
+  <text x="750" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="150" font-weight="900" fill="#FFFFFF" text-anchor="middle">SB</text>
+  
+  <!-- Subtitle -->
+  <text x="750" y="340" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="bold" fill="#388BFD" text-anchor="middle" letter-spacing="8">TECH ENTHUSIAST</text>
+</svg>
