@@ -1,17 +1,51 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 30 1520 440" width="100%">
-  <!-- The main angled background shape (GitHub Dark Mode matched) -->
-  <polygon points="0,40 750,90 1500,40 1500,460 750,410 0,460" fill="#0D1117" stroke="#0D1117" stroke-width="20" stroke-linejoin="round" />
-  
-  <!-- Scattered Floating Geometric Squares -->
-  <rect x="250" y="150" width="60" height="60" fill="none" stroke="#1F6FEB" stroke-width="3" transform="rotate(15 280 180)" />
-  <rect x="400" y="320" width="90" height="90" fill="none" stroke="#21262D" stroke-width="4" transform="rotate(-25 445 365)" />
-  <rect x="1100" y="120" width="50" height="50" fill="none" stroke="#21262D" stroke-width="3" transform="rotate(45 1125 145)" />
-  <rect x="1250" y="300" width="80" height="80" fill="none" stroke="#1F6FEB" stroke-width="2" transform="rotate(-15 1290 340)" />
-  <rect x="650" y="350" width="40" height="40" fill="none" stroke="#21262D" stroke-width="2" transform="rotate(10 670 370)" />
-  
-  <!-- Main Glowing Initials -->
-  <text x="750" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="150" font-weight="900" fill="#FFFFFF" text-anchor="middle">SB</text>
-  
-  <!-- Subtitle -->
-  <text x="750" y="340" font-family="system-ui, -apple-system, sans-serif" font-size="28" font-weight="bold" fill="#388BFD" text-anchor="middle" letter-spacing="8">TECH ENTHUSIAST</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 30 1520 440" width="100%" role="img" aria-labelledby="title desc">
+  <title id="title">SB — Software Developer</title>
+  <desc id="desc">A premium charcoal banner with champagne-gold accents and a clean SB monogram.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#111315"/>
+      <stop offset="0.55" stop-color="#17191B"/>
+      <stop offset="1" stop-color="#0D0F10"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F0D9A0"/>
+      <stop offset="0.5" stop-color="#C7A76C"/>
+      <stop offset="1" stop-color="#9B7B43"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#C7A76C" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#C7A76C" stop-opacity=".7"/>
+      <stop offset="1" stop-color="#C7A76C" stop-opacity="0"/>
+    </linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
+      <path d="M36 0H0V36" fill="none" stroke="#FFFFFF" stroke-opacity=".035" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <polygon points="0,40 750,90 1500,40 1500,460 750,410 0,460" fill="url(#bg)" stroke="#202224" stroke-width="2" stroke-linejoin="round"/>
+  <polygon points="0,40 750,90 1500,40 1500,460 750,410 0,460" fill="url(#grid)"/>
+
+  <!-- Restrained architectural corner details -->
+  <path d="M94 145H230M94 145V190M94 355V400H230" fill="none" stroke="url(#gold)" stroke-width="2" opacity=".8"/>
+  <path d="M1406 145H1270M1406 145V190M1406 355V400H1270" fill="none" stroke="url(#gold)" stroke-width="2" opacity=".8"/>
+  <path d="M300 145H1220M350 365H1170" stroke="url(#line)" stroke-width="1.5" fill="none"/>
+
+  <!-- Subtle circuit traces -->
+  <g fill="none" stroke="#C7A76C" stroke-width="1.5" opacity=".45">
+    <path d="M190 225H285V205H330"/>
+    <path d="M1330 225H1235V205H1190"/>
+    <path d="M220 310H300V330H345"/>
+    <path d="M1280 310H1200V330H1155"/>
+  </g>
+  <g fill="#C7A76C" opacity=".8">
+    <circle cx="330" cy="205" r="3"/><circle cx="1190" cy="205" r="3"/>
+    <circle cx="345" cy="330" r="3"/><circle cx="1155" cy="330" r="3"/>
+  </g>
+
+  <!-- Monogram -->
+  <rect x="658" y="135" width="184" height="184" rx="18" fill="#111315" stroke="url(#gold)" stroke-width="1.5"/>
+  <path d="M675 153H825M675 301H825" stroke="#C7A76C" stroke-opacity=".35" stroke-width="1"/>
+  <text x="750" y="257" font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif" font-size="94" font-weight="750" letter-spacing="-7" fill="#F3F0E8" text-anchor="middle">SB</text>
+  <text x="750" y="357" font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif" font-size="24" font-weight="600" fill="url(#gold)" text-anchor="middle" letter-spacing="7">SOFTWARE DEVELOPER</text>
+  <text x="750" y="388" font-family="Inter, SF Pro Display, Segoe UI, Arial, sans-serif" font-size="12" font-weight="500" fill="#A8A49B" text-anchor="middle" letter-spacing="4">BUILD  ·  CREATE  ·  INNOVATE</text>
 </svg>
