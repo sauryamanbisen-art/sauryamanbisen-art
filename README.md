@@ -68,11 +68,23 @@
 <br>
 
 <div align="center">
+  <img src="line.svg" alt="Divider" width="100%">
+</div>
+
+<br>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sauryamanbisen-art/sauryamanbisen-art/output/github-snake.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sauryamanbisen-art/sauryamanbisen-art/output/github-snake-light.svg">
     <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/sauryamanbisen-art/sauryamanbisen-art/output/github-snake.svg" width="100%" />
   </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="line.svg" alt="Divider" width="100%">
 </div>
 
 <br>
