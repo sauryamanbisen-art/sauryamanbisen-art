@@ -42,20 +42,27 @@
 
 ---
 
-<details>
-  <summary>More about me</summary>
-  <br>
-  I'm a first-year B.Tech CSE student, passionate about technology and web development. I enjoy learning by building projects, contributing to open source, and continuously improving my skills.
-  <br><br>
-  <ul>
-    <li>🎓 B.Tech Computer Science Engineering Student</li>
-    <li>🎯 Building projects and contributing to open source</li>
-    <li>📚 Currently learning Java | Python | DSA | Web Development</li>
-    <li>💬 Always open to learning, sharing, and helping others</li>
-    <li>🚀 Exploring new technologies and building ideas</li>
-    <li>💻 Interested in Full-Stack & DevOps</li>
-  </ul>
-</details>
+<img src="whoami-header.svg" alt="01 WHO AM I ~/01-whoami" width="100%">
+
+<p>
+  <samp>
+    I'm a first-year B.Tech CSE student, passionate about technology and web development.<br>
+    I enjoy learning by building projects, contributing to open source, and continuously improving my skills.
+  </samp>
+</p>
+
+<img src="line.svg" alt="Divider" width="100%">
+
+<p>
+  <samp>
+    <b>STATUS</b>&nbsp;&nbsp;&nbsp;&nbsp;▸&nbsp;&nbsp;🎓 B.Tech Computer Science Engineering Student<br>
+    <b>FOCUS</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;▸&nbsp;&nbsp;🎯 Building projects and contributing to open source<br>
+    <b>LEARNING</b>&nbsp;&nbsp;▸&nbsp;&nbsp;📚 Currently learning Java | Python | DSA | Web Development<br>
+    <b>CONNECT</b>&nbsp;&nbsp;&nbsp;▸&nbsp;&nbsp;💬 Always open to learning, sharing, and helping others<br>
+    <b>EXPLORING</b>&nbsp;▸&nbsp;&nbsp;🚀 Exploring new technologies and building ideas<br>
+    <b>INTERESTS</b>&nbsp;▸&nbsp;&nbsp;💻 Interested in Full-Stack & DevOps
+  </samp>
+</p>
 
 <details>
   <summary>My GitHub stats</summary>
